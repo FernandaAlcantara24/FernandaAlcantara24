@@ -1,8 +1,8 @@
-# Olá! Eu sou a Fernanda 👋
+# Olá! Seja bem-vindo ao meu perfil👋
 
-- 📚 Estudando HTML5 & CSS3
-- 💻 Começando na faculdade de ADS
-- 🤓 Gosto de estudar
+- 📚 FOCADA
+- 💻 Cursando ADS
+- 🤓 Adoro estudar e me cuidar
 
 <div align="center">
   <a href="https://github.com/FernandaAlcantara24">
