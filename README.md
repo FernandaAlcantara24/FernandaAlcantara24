@@ -2,7 +2,6 @@
 
 - 📚 FOCADA
 - 💻 Cursando ADS
-- 🤓 Adoro estudar e sair
 
 <div align="center">
   <a href="https://github.com/FernandaAlcantara24">
