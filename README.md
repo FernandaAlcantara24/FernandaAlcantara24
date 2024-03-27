@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo ao meu perfil👋
 
-- 🎓 ADS 5/5
+- 🎓 Análise e Desenvolvimento de sistemas 5/5
 - 🎉 21 years
 
 ### Social
