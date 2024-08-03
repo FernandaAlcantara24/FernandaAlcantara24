@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo ao meu perfil👋
 
-- 🎓 Análise e Desenvolvimento de sistemas 5/5
+- 🎓 Formada em Análise e Desenvolvimento de sistemas
 - 🎉 21 years
 
 ### Social
