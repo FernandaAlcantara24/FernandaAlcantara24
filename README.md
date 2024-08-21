@@ -1,17 +1,14 @@
 # Olá! Seja bem-vindo ao meu perfil👋
 
-- 🎓 Formada em Análise e Desenvolvimento de sistemas
+- 🎓 Graduada em Análise e Desenvolvimento de sistemas
 - 🎉 22 years
+- 😉 Especialista em Python e Soluções web
 
 ### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-alcantara24/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-alcantara24/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fehscript/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fernanda.programadora@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernanda.developer/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fernanda.programadora@gmail.com)
 
 ### Sobre
-Desde a infância, estive em contato com computadores e sempre fui movida pela curiosidade de aprender, o que cultivou meu amor pela tecnologia. 
 
 | Rank | Hobbies |
 |-----:|---------------|
